@@ -1,0 +1,91 @@
+
+/* @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap"); */
+
+/* .leave {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-color: rgb(68, 191, 31);
+    color: #fff;
+} */
+
+.form-floating{
+    margin: 0px;
+}
+ .container{
+    
+ }
+
+
+
+
+
+ .submitbtn{
+    height: 45px;
+    width: 80px;
+    left: 40%;
+    position: relative;
+    border-radius: 10px;
+    background-color: blue;
+ }
+
+ .submitbtn:hover{
+   background:  linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    transition: 1.5s;
+    height: 55px;
+    width: 95px;
+    color: black;
+    font-size: 20px;
+   
+ }
+
+
+ .status{
+
+    height: 100%;
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    padding: 20px;
+    left: 2%;
+    
+    position: relative;
+  
+ }
+
+ .spangroup{
+    padding: 8px;
+    font-size: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight:bold;
+    height: auto;
+    width: auto;
+    justify-content: space-between;
+    align-items: center;
+    background:  linear-gradient(to bottom, #efbd4a 0%, #e793bd 100%,rgb(98, 203, 182) 100%);
+    display: block;
+    margin: 30px 40px;
+    border: 2px solid green;
+    border-radius: 6px;
+    position: relative;
+  
+ }
+.statustxt{
+    height: 50px;
+    width: 100%;
+  position: relative;
+    font-size: 30px;
+    padding-bottom: 8px;
+    text-align: left;
+    align-items: left;
+    color: red;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+
+
+ 

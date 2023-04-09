@@ -1,0 +1,11 @@
+.centered:hover {
+  font-size: 200%;
+  cursor: pointer;
+  color: rgb(159, 159, 159);
+}
+.container1:hover {
+  cursor: pointer;
+  box-shadow: 0 10px 20px rgba(192, 18, 18, 0.781),
+    0 6px 6px rgba(0, 0, 0, 0.23);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
